@@ -1,6 +1,6 @@
 // 1. Find the largest number among the three numbers.
 // 2. Write a Program to check whether a number is prime or not
-class DAY_1{
+class Algo{
     public static void main(String[] args) {
         
         System.err.println(largestNumber(10, 43, 42));
