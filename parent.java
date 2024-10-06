@@ -1,4 +1,4 @@
-public  class parent {
+public  class Parent {
 
 
     public void career(){

@@ -1,6 +1,6 @@
 class Main{
     public static void main(String[] args) {
-        parent obj = new son();
+        Parent obj = new Son();
        obj.career();
     }
 }
